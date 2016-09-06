@@ -1,4 +1,4 @@
-oro_system_configuration:
+system_configuration:
     groups:
         integrations:
             title: oro.integration.system_configuration.groups.integrations.title
