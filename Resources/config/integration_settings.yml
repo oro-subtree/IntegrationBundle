@@ -1,4 +1,4 @@
-integrations:
+oro_integration:
     form:
         synchronization_settings:
             isTwoWaySyncEnabled:
