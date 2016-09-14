@@ -1,4 +1,4 @@
-datagrid:
+datagrids:
     oro-integration-grid:
         acl_resource: oro_integration_view
         source:
